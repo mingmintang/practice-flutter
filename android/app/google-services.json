@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "744939238364",
+    "firebase_url": "https://firestoredemo-278fc.firebaseio.com",
+    "project_id": "firestoredemo-278fc",
+    "storage_bucket": "firestoredemo-278fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744939238364:android:c1f0f09aa42eba16",
+        "android_client_info": {
+          "package_name": "com.google.firebase.example.fireeats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744939238364-o2mrgpj165u5o8f95n17ogsodi5a7l0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn-a4bxTJoF93QyinC1y2ABEsQoRV0DDI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744939238364:android:1c4dd37b5dc63c13",
+        "android_client_info": {
+          "package_name": "com.mingmin.practice.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744939238364-o2mrgpj165u5o8f95n17ogsodi5a7l0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn-a4bxTJoF93QyinC1y2ABEsQoRV0DDI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744939238364:android:c1aaf9f2c3d1b5e6",
+        "android_client_info": {
+          "package_name": "mingmin.practiceflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744939238364-o2mrgpj165u5o8f95n17ogsodi5a7l0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn-a4bxTJoF93QyinC1y2ABEsQoRV0DDI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
