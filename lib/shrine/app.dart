@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'home.dart';
 
-class ShrineApp extends StatelessWidget {
+class ShrinePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(

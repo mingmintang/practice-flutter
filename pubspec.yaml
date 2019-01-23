@@ -8,6 +8,7 @@ dependencies:
   flutter:
     sdk: flutter
 
+  cloud_firestore: ^0.8.2
   shrine_images: ^1.0.0
 
 dev_dependencies:
